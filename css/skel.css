@@ -205,6 +205,12 @@
 			.row.\30 \25 {
 				margin: 0 0 -1px 0;
 			}
+.container.\35 0\25 {
+
+				/* width: (containers * 0.50) */
+				width: 600px;
+
+			}
 
 	/* Cells */
 
